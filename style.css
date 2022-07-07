@@ -1,0 +1,23 @@
+h2{
+	color: rgba(28, 84, 107, 0.679);
+}
+
+
+body{
+	background: #e4f1ff;
+	font-family: 'Montserrat', sans-serif;
+	
+}
+
+.container  {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+
+	
+}
+
+a{
+
+	color:rgb(70, 76, 189)
+}
